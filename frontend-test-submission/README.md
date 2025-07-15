@@ -12,7 +12,7 @@ This project is the frontend implementation for the Afford Medical Technologies 
 ## 🚀 How to Run the Project
 
 1. **Clone this repository**:
-   git clone https://github.com/your-username/frontend-test-submission.git
+   git clone 
    cd frontend-test-submission
 
 2. Install dependencies:
